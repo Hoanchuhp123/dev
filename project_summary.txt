@@ -1,0 +1,57 @@
+TỔNG HỢP DỮ LIỆU JSON TRONG DỰ ÁN:
+
+TỔNG HỢP FILE MARKDOWN TRONG DỰ ÁN:
+
+- File: ./README.md
+  Số dòng: 15
+  Heading chính: ['# What is this?', '# Why?']
+
+- File: ./tl.md
+  Số dòng: 0
+  Heading chính: []
+
+- File: ./files_6_unzipped/QUY_TAC_DAT_TEN.md
+  Số dòng: 16
+  Heading chính: ['## QUY TẮC ĐẶT TÊN FILE/THƯ MỤC (VỤ ÁN VẮN NGỌC LAN)']
+
+- File: ./files_6_unzipped/README.md
+  Số dòng: 85
+  Heading chính: ['# Dự án Quản lý Tài liệu Vụ án Vắn Ngọc Lan', '## Mục tiêu dự án', '## Đối tượng sử dụng']
+
+- File: ./files_6_unzipped/resources/data_dictionary.md
+  Số dòng: 108
+  Heading chính: ['# DATA DICTIONARY / TỪ ĐIỂN DỮ LIỆU HỒ SƠ VỤ ÁN VẮN NGỌC LAN', '## 🧑\u200d⚖️ 1. NHÂN VẬT THAM GIA VỤ ÁN', '## 📄 2. BẰNG CHỨNG / CHỨNG CỨ CHÍNH']
+
+- File: ./files_6_unzipped/resources/Huong_dan_su_dung_repo.md
+  Số dòng: 105
+  Heading chính: ['# HƯỚNG DẪN SỬ DỤNG REPOSITORY HỒ SƠ VỤ ÁN VẮN NGỌC LAN', '## 1. GIỚI THIỆU CHUNG', '## 2. CẤU TRÚC THƯ MỤC']
+
+- File: ./files_6_unzipped/evidences/202X-YY-ZZ_Tuong_trinh_su_kien_[ten_su_kien_ngan].md
+  Số dòng: 63
+  Heading chính: ['# TƯỜNG TRÌNH SỰ KIỆN: [Tên sự kiện ngắn gọn, ví dụ: Bắt giữ trái pháp luật ngày 31/10/2023]', '## 1. Thông tin chung về sự kiện', '## 2. Diễn biến sự kiện']
+
+- File: ./files_6_unzipped/evidences/2023-08-10_Tuong_trinh_bat_giu_trai_phap_luat_lan_1.md
+  Số dòng: 80
+  Heading chính: ['# TƯỜNG TRÌNH SỰ KIỆN: Bắt giữ trái pháp luật lần 1 ngày 10/08/2023', '## 1. Thông tin chung về sự kiện', '## 2. Diễn biến sự kiện']
+
+- File: ./files_6_unzipped/evidences/2024-03-27_Tuong_trinh_Bien_ban_ma_chiem_doat_tien.md
+  Số dòng: 93
+  Heading chính: ['# TƯỜNG TRÌNH SỰ KIỆN: “Biên bản ma” ngày 27/03/2024 – Hành vi cấu kết chiếm đoạt tiền “chạy án” giữa Trần Thị Đang và Điều tra viên Nguyễn Ngọc Vương', '## 1. Thông tin chung về sự kiện', '## 2. Diễn biến chi tiết sự kiện']
+
+- File: ./files_6_unzipped/evidences/2023-08_Tuong_trinh_ep_cung_lam_sai_lech_loi_khai.md
+  Số dòng: 92
+  Heading chính: ['# TƯỜNG TRÌNH SỰ KIỆN: Ép cung, dụ cung, mớm cung và làm sai lệch lời khai (tháng 8/2023)', '## 1. Thông tin chung về sự kiện', '## 2. Diễn biến chi tiết sự kiện']
+
+- File: ./files_6_unzipped/evidences/2023-10-31_Tuong_trinh_su_kien_Bat_giu_trai_phap_luat.md
+  Số dòng: 91
+  Heading chính: ['# TƯỜNG TRÌNH SỰ KIỆN: Bắt giữ trái pháp luật ngày 31/10/2023', '## Thông tin sự kiện', '## Diễn biến sự kiện']
+
+- File: ./files_6_unzipped/docs/2025-06_Tom_tat_vu_an.md
+  Số dòng: 89
+  Heading chính: ['# TÓM TẮT VỤ ÁN VẮN NGỌC LAN', '## 1. Bối cảnh và thông tin cơ bản', '## 2. Diễn biến chính và mốc thời gian quan trọng']
+
+- File: ./files_6_unzipped/docs/2025-06_Tong_hop_luan_cu.md
+  Số dòng: 86
+  Heading chính: ['# TỔNG HỢP LUẬN CỨ PHÁP LÝ VỤ ÁN VẮN NGỌC LAN', '## 1. Giới thiệu chung & cơ sở pháp lý', '## 2. Nhóm luận cứ số 1: Vi phạm quyền con người/quyền thân thể']
+
+TỔNG HỢP FILE TEXT TRONG DỰ ÁN:
